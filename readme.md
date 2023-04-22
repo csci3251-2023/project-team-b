@@ -30,3 +30,33 @@ To be added later by other teammates
 
 # Contributors
 To be added later by other teammates
+\>\> @ToryYuen(Sik-To Yuen)
+
+&nbsp;&nbsp;&nbsp;&nbsp;>>I contributed as the Task 1 Task Manager:
+  - Creating all new issues
+  - Check if the issue is done from time to time
+
+\>\> @c-beeper(Xue Zhang)
+
+&nbsp;&nbsp;&nbsp;&nbsp;>>I contributed as the: Task 2 Project Manager, some reviews, ...
+
+\>\> @13985(chan yin ching)
+
+&nbsp;&nbsp;&nbsp;&nbsp;>>I contributed as the: Task 4 Manager, some reviews,
+
+\>\> ![06zoeyyy](https://github.com/06zoeyyy.png?size=50)@06zoeyyy(Jiaqi GAO)
+
+&nbsp;&nbsp;&nbsp;&nbsp;>>I contributed as the: Task 5
+
+\>\> ![Xihe4687](https://github.com/Xihe4687.png?size=50)@Xihe4687(CHENG Jianlong)
+
+&nbsp;&nbsp;&nbsp;&nbsp;>>I contributed as the: Task 6 Manager, some reviews, ...
+
+\>\> ![cuhk1155159532](https://github.com/cuhk1155159532.png?size=50)@cuhk1155159532(Cheng Hei Chit)
+
+&nbsp;&nbsp;&nbsp;&nbsp;>>I contributed as the: Task 7 Promotion Manager, some reviews
+
+\>\> ![s6007503](https://avatars.githubusercontent.com/u/42779067?s=400&v=4)@s6007503(Maneemala SAENG-NGERN)
+
+&nbsp;&nbsp;&nbsp;&nbsp;>>I contributed as the: Task 3 Set up readme.md and also did some reviews.
+
