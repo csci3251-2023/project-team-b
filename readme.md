@@ -31,7 +31,7 @@ To be added later by other teammates
 # Contributors
 <ul> 
   {% for stu in site.stu %} 
-   <li>< img src = "{{ stu.image }}" height="50" width="50"/>@{{ stu.user }}({{ stu.name }}) 
+   <li><img src="{{ stu.image }}" height="50" width="50"/>@{{ stu.user }}({{ stu.name }}) 
    <ul> 
    <li><p>{{ stu.content | markdownify }}</p ></li> 
    </ul> 
