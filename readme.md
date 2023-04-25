@@ -26,7 +26,10 @@ Here is the brief introduction of what we need to do in issues. Please see the f
 - Promote our group repo and request for review from @chuckjee
 
 # Code 
-To be added later by other teammates
+```c 
+{% include_relative code.c %}
+```
+![CI](https://github.com/csci3251-2023/project-team-b/actions/workflows/c-with-make.yml/badge.svg)
 
 # Contributors
 <ul> 
