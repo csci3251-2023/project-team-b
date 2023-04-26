@@ -38,3 +38,5 @@ To be added later by other teammates
    </li> 
   {% endfor %} 
  </ul> 
+
+Repo last updated time: {{ site.time }}
