@@ -14,10 +14,8 @@ Here is the brief introduction of what we need to do in issues. Please see the f
 - Write a simple C code and set up a GitHub Action with a workflow to run the C code
 
 ### Task 5: Get a status badge - "Delivery Manager"
-```c 
-{% include_relative code.c %}
-```
-![CI](https://github.com/csci3251-2023/project-team-b/actions/workflows/c-cpp.yml/badge.svg)
+- Edit readme.md and include the code from code.c
+- Get a workflow status badge for the code
 
 ### Task 6: Showcase your team - "Personnel Manager"
 - Edit readme.md file. Under Contributors, use a loop in the folder _stu (Jekyll collection stu) to view all files
@@ -31,7 +29,7 @@ Here is the brief introduction of what we need to do in issues. Please see the f
 ```c 
 {% include_relative code.c %}
 ```
-![CI](https://github.com/csci3251-2023/project-team-b/actions/workflows/c-with-make.yml/badge.svg)
+![CI](https://github.com/csci3251-2023/project-team-b/actions/workflows/c-cpp.yml/badge.svg)
 
 # Contributors
 <ul> 
